@@ -19,3 +19,6 @@ Clone the repository:
 
 ### Set up environment variables: Create a .env file in the root directory and add your OpenAI API key:
 OPENAI_API_KEY=your_openai_api_key
+
+### Youtube video -
+https://www.youtube.com/watch?v=cGJmrlbxiHE
